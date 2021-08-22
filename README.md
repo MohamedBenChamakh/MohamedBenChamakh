@@ -1,7 +1,7 @@
 
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/-mohamed.ben.chamakh98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed.ben.chamakh98@gmail.com)](mailto:kanna6501@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-mohamedbenchamakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedbenchamakh/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Gmail Badge](https://img.shields.io/badge/-mohamed.ben.chamakh98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed.ben.chamakh98@gmail.com)](mailto:mohamed.ben.chamakh98@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mohamedbenchamakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedbenchamakh/)](https://www.linkedin.com/in/mohamedbenchamakh/)
 
 ##  Stats ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MohamedBenChamakh)
 
